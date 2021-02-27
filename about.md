@@ -5,7 +5,7 @@ layout: page
 bodyClass: page-about
 ---
 
-Mngo App is a Application Builder Platform. 
+Mngo App is an Application Builder Platform. 
 
 ## High Level Features
 
@@ -22,8 +22,8 @@ Mngo App is a Application Builder Platform.
 - Won't require you to use a specific language for your application product feature software code. 
 - Optional no code solution to write application feature software code
 
-## Why use Mngo?
+<!-- ## Why use Mngo?
 
 ## Why would I use Mngo when I can use Aha or Jira to manage my Product Features
 
-## Why would I use Mngo for my Support Organization when I could use a Product like Pendo?
+## Why would I use Mngo for my Support Organization when I could use a Product like Pendo? -->
