@@ -11,7 +11,8 @@ Mngo App is an Application Builder Platform.
 
 1. Product Management Solution to manage Product Features
 2. Support Organization Solution to manage Product Feature Help Documentation
-3. Development/Engineering Organization Solution to manage Product Features
+3. Engineering Organization Solution to build new Product Features
+4. Engineering Organization Solution to manage existing Product Features
 
 ## What Mngo will do for you
 - Provide management of all software product features

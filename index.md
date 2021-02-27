@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Mngo - An Application Builder Platform
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+A bring your own code or no code solution Application Builder. A new programming language and DSL for building applications.
