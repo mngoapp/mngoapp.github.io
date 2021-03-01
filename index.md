@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Mngo - An Application Builder Platform
 
-A bring your own code or no code solution Application Builder. A new programming language and DSL for building applications.
+A bring your own code or no code solution Application Platform. A new programming language and DSL for building applications.

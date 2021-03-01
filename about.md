@@ -5,7 +5,7 @@ layout: page
 bodyClass: page-about
 ---
 
-Mngo App is an Application Builder Platform. 
+Mngo App is an Application Platform. 
 
 ## High Level Features
 
