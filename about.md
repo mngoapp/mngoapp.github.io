@@ -5,7 +5,7 @@ layout: page
 bodyClass: page-about
 ---
 
-Mngo App is an Application Platform. 
+Mango is an Application Platform. 
 
 ## High Level Features
 
@@ -14,14 +14,13 @@ Mngo App is an Application Platform.
 3. Engineering Organization Solution to build new Product Features
 4. Engineering Organization Solution to manage existing Product Features
 
-## What Mngo will do for you
+## What Mango will do for you
 - Provide management of all software product features
-- Domain Specific Language to work with the Mngo Platform Features
+- Easy yaml based configuration and Application integrated development environment
 
-## What Mngo won't do for you
+## What Mango won't do for you
 - Won't get in your way
-- Won't require you to use a specific language for your application product feature software code. 
-- Optional no code solution to write application feature software code
+- Won't require you to use a specific language for application software code
 
 <!-- ## Why use Mngo?
 
