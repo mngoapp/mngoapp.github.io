@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Mngo Platform'
+title: 'Mango Platform'
 
 google_analytics_id: ""
 homepage:
